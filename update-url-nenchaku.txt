@@ -1,2 +1,2 @@
-VERSION=0.0.6
-URL=https://github.com/Wither362/kaisixbwbqkaosnfnebejwysysydhbfkflrpqpqosjznxnflro/archive/refs/tags/0.0.zip
+VERSION=0.0.2
+URL=https://github.com/Wither362/kaisixbwbqkaosnfnebejwysysydhbfkflrpqpqosjznxnflro/releases/download/v0.0.2/Nenchaku.Boru.v16.apk
